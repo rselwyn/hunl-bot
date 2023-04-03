@@ -28,6 +28,8 @@ def main():
         for _, v in i_map.items():
             v.next_strategy()
 
+        print(a, "EV", expected_game_value / a)
+
         if a % 10 == 0:
             print("PRINTING HAND INFORMATION")
             print("-------- ITER {} -------".format(a))
