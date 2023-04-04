@@ -1,4 +1,4 @@
-# Understanding Push- Fold Pre-Flop Strategy for Heads Up NLH Poker
+# Understanding Push-Fold Pre-Flop Strategy for Heads Up NLH Poker
 ## A Simplified Solver for HUNL Poker
 
 ### Background: 
